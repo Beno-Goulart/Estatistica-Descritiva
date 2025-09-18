@@ -1,15 +1,12 @@
 # 📊 Estatística Descritiva e Sistemas Lineares com Python
-
-Este repositório contém a resolução dos **exercícios a partir do slide 33** da apostila  
-*Estatística Descritiva e Sistemas Lineares com Python*.  
-Os exercícios foram implementados em **Python**, utilizando um **Jupyter Notebook**.
+  
+*Os exercícios foram implementados em **Python**, utilizando um **Jupyter Notebook***.
 
 ---
 
 ## 📂 Estrutura do Repositório
 
 - `descritiva.ipynb` → Notebook principal com as resoluções passo a passo.
-- `descritiva.py` → Script Python gerado a partir do notebook (opcional).
 - `requirements.txt` → Lista de bibliotecas necessárias para rodar o projeto.
 
 ---
